@@ -19,9 +19,11 @@ This project is a simple web application for predicting property rent based on p
 
 
 Install dependencies:
+
 pip install -r requirements.txt
 
 Run the Flask Application
+
 python app.py
 
 
@@ -34,3 +36,6 @@ submission.csv: Output file containing predictions.
 Additional Notes
 The requirements.txt file lists the required Python packages.
 The templates folder contains the HTML template for the web interface.
+
+youtube video link:
+https://youtu.be/dWztRW8-sdI?si=DewTwZGVb0LiNTWu
